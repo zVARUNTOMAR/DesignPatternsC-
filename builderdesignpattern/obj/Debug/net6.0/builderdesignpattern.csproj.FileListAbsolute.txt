@@ -1,0 +1,15 @@
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\builderdesignpattern.csproj.AssemblyReference.cache
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\builderdesignpattern.GeneratedMSBuildEditorConfig.editorconfig
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\builderdesignpattern.AssemblyInfoInputs.cache
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\builderdesignpattern.AssemblyInfo.cs
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\builderdesignpattern.csproj.CoreCompileInputs.cache
+K:\Code\DesignPatternsC#\builderdesignpattern\bin\Debug\net6.0\builderdesignpattern.exe
+K:\Code\DesignPatternsC#\builderdesignpattern\bin\Debug\net6.0\builderdesignpattern.deps.json
+K:\Code\DesignPatternsC#\builderdesignpattern\bin\Debug\net6.0\builderdesignpattern.runtimeconfig.json
+K:\Code\DesignPatternsC#\builderdesignpattern\bin\Debug\net6.0\builderdesignpattern.dll
+K:\Code\DesignPatternsC#\builderdesignpattern\bin\Debug\net6.0\builderdesignpattern.pdb
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\builderdesignpattern.dll
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\refint\builderdesignpattern.dll
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\builderdesignpattern.pdb
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\builderdesignpattern.genruntimeconfig.cache
+K:\Code\DesignPatternsC#\builderdesignpattern\obj\Debug\net6.0\ref\builderdesignpattern.dll

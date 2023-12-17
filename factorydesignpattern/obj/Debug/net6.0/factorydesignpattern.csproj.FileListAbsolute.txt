@@ -1,0 +1,15 @@
+K:\Code\DesignPatternsC#\factorydesignpattern\bin\Debug\net6.0\factorydesignpattern.exe
+K:\Code\DesignPatternsC#\factorydesignpattern\bin\Debug\net6.0\factorydesignpattern.deps.json
+K:\Code\DesignPatternsC#\factorydesignpattern\bin\Debug\net6.0\factorydesignpattern.runtimeconfig.json
+K:\Code\DesignPatternsC#\factorydesignpattern\bin\Debug\net6.0\factorydesignpattern.dll
+K:\Code\DesignPatternsC#\factorydesignpattern\bin\Debug\net6.0\factorydesignpattern.pdb
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\factorydesignpattern.csproj.AssemblyReference.cache
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\factorydesignpattern.GeneratedMSBuildEditorConfig.editorconfig
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\factorydesignpattern.AssemblyInfoInputs.cache
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\factorydesignpattern.AssemblyInfo.cs
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\factorydesignpattern.csproj.CoreCompileInputs.cache
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\factorydesignpattern.dll
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\refint\factorydesignpattern.dll
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\factorydesignpattern.pdb
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\factorydesignpattern.genruntimeconfig.cache
+K:\Code\DesignPatternsC#\factorydesignpattern\obj\Debug\net6.0\ref\factorydesignpattern.dll
