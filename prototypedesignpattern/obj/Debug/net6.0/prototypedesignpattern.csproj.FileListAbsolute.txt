@@ -1,0 +1,15 @@
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\prototypedesignpattern.csproj.AssemblyReference.cache
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\prototypedesignpattern.GeneratedMSBuildEditorConfig.editorconfig
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\prototypedesignpattern.AssemblyInfoInputs.cache
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\prototypedesignpattern.AssemblyInfo.cs
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\prototypedesignpattern.csproj.CoreCompileInputs.cache
+K:\Code\DesignPatternsC#\prototypedesignpattern\bin\Debug\net6.0\prototypedesignpattern.exe
+K:\Code\DesignPatternsC#\prototypedesignpattern\bin\Debug\net6.0\prototypedesignpattern.deps.json
+K:\Code\DesignPatternsC#\prototypedesignpattern\bin\Debug\net6.0\prototypedesignpattern.runtimeconfig.json
+K:\Code\DesignPatternsC#\prototypedesignpattern\bin\Debug\net6.0\prototypedesignpattern.dll
+K:\Code\DesignPatternsC#\prototypedesignpattern\bin\Debug\net6.0\prototypedesignpattern.pdb
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\prototypedesignpattern.dll
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\refint\prototypedesignpattern.dll
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\prototypedesignpattern.pdb
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\prototypedesignpattern.genruntimeconfig.cache
+K:\Code\DesignPatternsC#\prototypedesignpattern\obj\Debug\net6.0\ref\prototypedesignpattern.dll
